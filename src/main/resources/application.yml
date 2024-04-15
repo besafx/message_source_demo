@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: demo
+  messages:
+    basename: i18n/messages
+    fallback-to-system-locale: false
